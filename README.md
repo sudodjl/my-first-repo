@@ -2,12 +2,10 @@
 
 These are **instructions** for using this *program*.
 
-- Do something
-- Do something else
-- Do one more thing
-
-1. Finally...
-2. Don't forget!
+## My favorite programming languages
+- Perl
+- Python
+- SQL
 
 Here is `some regex code` in the middle of a sentence.
 
